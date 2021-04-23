@@ -1,16 +1,16 @@
 
-Starting Nmap 6.40 ( http://nmap.org ) at 2021-04-21 16:38 UTC
+Starting Nmap 6.40 ( http://nmap.org ) at 2021-04-22 05:05 UTC
 Nmap scan report for 192.168.99.99
-Host is up (0.011s latency).
+Host is up (0.018s latency).
 Nmap scan report for 192.168.99.100
-Host is up (0.0013s latency).
-Nmap done: 256 IP addresses (2 hosts up) scanned in 58.66 seconds
+Host is up (0.0019s latency).
+Nmap done: 256 IP addresses (2 hosts up) scanned in 20.17 seconds
 Retrieving speedtest.net configuration...
 Testing from FLYNET.BY (92.38.63.73)...
 Retrieving speedtest.net server list...
 Selecting best server based on ping...
-Hosted by UNET.BY (Minsk) [0.28 km]: 16.329 ms
+Hosted by BYFLY.BY (Minsk) [0.28 km]: 15.024 ms
 Testing download speed................................................................................
-Download: 10.47 Mbit/s
+Download: 11.78 Mbit/s
 Testing upload speed................................................................................................
-Upload: 5.67 Mbit/s
+Upload: 3.68 Mbit/s
